@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="parent"
         android:hint="Title "
         android:layout_margin="12dp"
-        app:boxStrokeColor="@color/purple_700"
+        app:boxStrokeColor="#E95118B6"
         app:boxStrokeWidth="2dp"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         >
@@ -37,7 +37,7 @@
         android:hint="Desc "
         android:layout_margin="12dp"
         android:background="@drawable/et_shape_bg"
-        app:boxStrokeColor="@color/purple_700"
+        app:boxStrokeColor="#E95118B6"
         app:boxStrokeWidth="2dp"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         >
